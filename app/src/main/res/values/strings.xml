@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kinetigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here"> crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+    <string name="username_card">Jonathan Salazar</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">10 Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Principal</string>
+    <string name="tab_profile">Yo</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="titleimagedetail">\"Disfrutando de la robótica\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris suscipit non felis id sodales. Nam varius a ante non pellentesque. Ut risus dolor, mollis vitae sodales quis, scelerisque ut urna. Pellentesque scelerisque tempus magna, sed fringilla dui ornare eget. Morbi posuere sapien in congue ultrices. Vivamus mollis fringilla libero, eget pulvinar neque eleifend in.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+</resources>
